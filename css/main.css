@@ -23,6 +23,7 @@ body {
     background: rgb(207, 213, 216);
 }
 .button-holder {
+    
     display: flex;
     justify-content: space-between;
     width: 580px;
@@ -50,7 +51,7 @@ body {
     display: flex;
 }
 .pb-box1 {
-    border: 1px solid black;
+    /*border: 1px solid black;*/
     margin: 2%;
     width: 50%;
 }
@@ -59,7 +60,7 @@ body {
     width: 50%;
 }
 td {
-    border: 1px solid black;
+   border: 1px solid black;
 }
 
 .footer {
